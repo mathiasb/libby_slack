@@ -85,7 +85,7 @@
 ## Acknowledgements
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat
 [Bootstrap-url]: https://getbootstrap.com
 [Nodejs.org]: https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat
 [Node-url]: https://nodejs.org
