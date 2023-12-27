@@ -53,12 +53,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 <p>Libby was created to meet an internal need within an analysis and research process. As the team spent many hours browsing and sifting through troves of research reports and articles for different customer projects, and shared the summarized views in a Slack channel, we decided to try to systematize the process a bit more, to both improve efficiency in the project, and also to create better traceability and history of tracking &quot;signals&quot;.</p>
-<p>
-Libby was created as a Slack plugin to support the main workflow of the team.
-</p>
+<p>Libby was created as a Slack plugin to support the main workflow of the team.</p>
+
 ### Built with
-* [![Google Bard][Google_Bard]][GoogleBard-url]
-* [![Node.JS][Nodejs.org]][Node-url]
+* [![GoogleBard][Google_Bard]][GoogleBard-url]
+* [![NodeJS][Nodejs.org]][Node-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,7 +77,7 @@ Follow this guide to enable extensions in your team Slack.
 <!-- USAGE -->
 ## Usage
 1. Open slack
-2. In any channel you can issue the command <code>'/libby sum \[URL\]'</code>
+2. In any channel you can issue the command <code>/libby sum \[URL\]</code>
 3. If you have the access rights to access URL, then Libby will get the information behind the URL, ask Bard to summarize it, and respond back with the summation of the text, and the URL itself, together with a list of tags that can be used to sort the contents in a research database e.g.
 
 
