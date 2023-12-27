@@ -165,7 +165,7 @@ Project Link: [https://github.com/mathiasb/libby_slack](https://github.com/mathi
 [license-shield]: https://img.shields.io/github/license/mathiasb/libby_slack.svg?style=for-the-badge
 [license-url]: https://github.com/mathiasb/libby_slack/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/mathias_bergqvist
+[linkedin-url]: https://linkedin.com/in/mathiasbergqvist/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat
 [Bootstrap-url]: https://getbootstrap.com
 [Nodejs.org]: https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat
