@@ -1,4 +1,4 @@
-# libby_slack
+# Libby for Slack
 
 <!-- PROJECT LOGO -->
 <br />
@@ -24,14 +24,30 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-* About the project
-* Getting started
-* Usage
-* Roadmap
-* Contributing
-* License
-* Contact
-* Acknowledgements
+<details>
+  <summary>Table of contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About the project</a>
+      <ul>
+        <li><a href="#built-with">Built with</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
@@ -40,6 +56,10 @@
 
 <!-- GETTING STARTED -->
 ## Getting started
+
+### Prerequisites
+
+### Installation
 
 <!-- USAGE -->
 ## Usage
