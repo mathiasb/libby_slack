@@ -1,4 +1,5 @@
 # Libby for Slack
+<a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -53,6 +54,10 @@
 ## About the project
 
 ### Built with
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![NodeJS][Nodejs.org]][Node-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting started
@@ -80,3 +85,7 @@
 ## Acknowledgements
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[Nodejs.org]: https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat
+[Node-url]: https://nodejs.org
