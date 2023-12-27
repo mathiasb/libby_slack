@@ -96,6 +96,7 @@ Libby uses the experimental open version of Google Bard currently. Next steps co
 Right now Libby is built as a Slack extension. She could also be used in other workflow and collaboration tools. E.g. Symphony or the Metaverse. Libby could also do more with the reponses than just to feed back text, she could store the results together with tags/labels and the original URL in a database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -111,18 +112,22 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
 ## License
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTACT -->
 ## Contact
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat
 [Bootstrap-url]: https://getbootstrap.com
