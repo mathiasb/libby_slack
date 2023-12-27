@@ -146,9 +146,9 @@ Project Link: [https://github.com/mathiasb/libby_slack](https://github.com/mathi
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Best README Template](https://github.com/othneildrew/Best-README-Template)
+* [Bard API Node](https://github.com/codenze/bard-api-node)
+* [Create a Slack bot in Node](https://medium.com/walmartglobaltech/create-slackbot-using-slack-bolt-api-and-node-js-a82876db012f)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
