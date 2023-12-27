@@ -42,7 +42,14 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li>
+      <a href="#roadmap">Roadmap</a>
+      <ul>
+        <li><a href="#increase-commands-and-intelligence">Increase commands and intelligence</a></li>
+        <li><a href="#alternative-gen-ai-implementations">Alternative Gen AI Implementations</a></li>
+        <li><a href="#more-integrations">More integrations</a></li>
+      </ul>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -65,18 +72,19 @@
 ## Getting started
 You need a Google Bard account and Slack and the ability to add extensions to Slack.
 ### Prerequisites
-Follow this guide to enable API access to your Google Bard account.
-Follow this guide to enable extensions in your team Slack.
+* Follow this guide to enable API access to your Google Bard account.
+* Follow this guide to enable extensions in your team Slack.
 
 ### Installation
 1. Log in to Google Bard
 2. Go to your Slack admin panel
 3. Add extension to Slack
 4. Approve API calls
-5. Ensure Libby pops up in the extensions-list/app list
+5. Ensure Libby pops up in the App list
+
 <!-- USAGE -->
 ## Usage
-1. Open slack
+1. Open Slack
 2. In any channel you can issue the command <code>/libby sum \[URL\]</code>
 3. If you have the access rights to access URL, then Libby will get the information behind the URL, ask Bard to summarize it, and respond back with the summation of the text, and the URL itself, together with a list of tags that can be used to sort the contents in a research database e.g.
 
@@ -116,15 +124,24 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
+Distributed under the MIT License. See `LICENSE` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
+Mathias Bergqvist - [@berqa](https://twitter.com/berqa) - mthbqv@gmail.com
+
+Project Link: [https://github.com/mathiasb/libby_slack](https://github.com/mathiasb/libby_slack)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+
+* []()
+* []()
+* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
