@@ -52,25 +52,46 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
-
+<p>Libby was created to meet an internal need within an analysis and research process. As the team spent many hours browsing and sifting through troves of research reports and articles for different customer projects, and shared the summarized views in a Slack channel, we decided to try to systematize the process a bit more, to both improve efficiency in the project, and also to create better traceability and history of tracking &quot;signals&quot;.</p>
+<p>
+Libby was created as a Slack plugin to support the main workflow of the team.
+</p>
 ### Built with
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![NodeJS][Nodejs.org]][Node-url]
+* [![Google Bard][Google_Bard]][GoogleBard-url]
+* [![Node.JS][Nodejs.org]][Node-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting started
-
+You need a Google Bard account and Slack and the ability to add extensions to Slack.
 ### Prerequisites
+Follow this guide to enable API access to your Google Bard account.
+Follow this guide to enable extensions in your team Slack.
 
 ### Installation
-
+1. Log in to Google Bard
+2. Go to your Slack admin panel
+3. Add extension to Slack
+4. Approve API calls
+5. Ensure Libby pops up in the extensions-list/app list
 <!-- USAGE -->
 ## Usage
+1. Open slack
+2. In any channel you can issue the command <code>'/libby sum \[URL\]'</code>
+3. If you have the access rights to access URL, then Libby will get the information behind the URL, ask Bard to summarize it, and respond back with the summation of the text, and the URL itself, together with a list of tags that can be used to sort the contents in a research database e.g.
+
 
 <!-- ROADMAP -->
 ## Roadmap
+The MVP use case is planned to be developed further in a few directions.
+
+### Increase commands and intelligence
+Right now the main use case is to summarize article type texts. Next steps could be other research and analysis use cases, like quickly looking for names, places etc using NER algorithms, so one command could be <code>/libby ner \[URL\]</code>
+
+### Alternative Gen AI implementations
+
+### More integrations
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -89,3 +110,5 @@
 [Bootstrap-url]: https://getbootstrap.com
 [Nodejs.org]: https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat
 [Node-url]: https://nodejs.org
+[Google_Bard]: https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff&style=flat
+[GoogleBard-url]: https://bard.google.com
