@@ -80,6 +80,7 @@ Follow this guide to enable extensions in your team Slack.
 2. In any channel you can issue the command <code>/libby sum \[URL\]</code>
 3. If you have the access rights to access URL, then Libby will get the information behind the URL, ask Bard to summarize it, and respond back with the summation of the text, and the URL itself, together with a list of tags that can be used to sort the contents in a research database e.g.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -89,21 +90,39 @@ The MVP use case is planned to be developed further in a few directions.
 Right now the main use case is to summarize article type texts. Next steps could be other research and analysis use cases, like quickly looking for names, places etc using NER algorithms, so one command could be <code>/libby ner \[URL\]</code>
 
 ### Alternative Gen AI implementations
+Libby uses the experimental open version of Google Bard currently. Next steps could be to use other conversational AI or AI chatbot implementations.
 
 ### More integrations
+Right now Libby is built as a Slack extension. She could also be used in other workflow and collaboration tools. E.g. Symphony or the Metaverse. Libby could also do more with the reponses than just to feed back text, she could store the results together with tags/labels and the original URL in a database.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 ## Contributing
 
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
 ## License
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTACT -->
 ## Contact
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- MARKDOWN LINKS & IMAGES -->
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat
 [Bootstrap-url]: https://getbootstrap.com
