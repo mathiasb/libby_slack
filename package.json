@@ -4,7 +4,7 @@
   "description": "<a name=\"readme-top\"></a> <!-- SHIELDS --> [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --require ./test/testSetup.js"
   },
   "keywords": [],
   "author": "Mathias Bergqvist",
