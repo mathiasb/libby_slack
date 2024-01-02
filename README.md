@@ -67,11 +67,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 <p>Libby was created to meet an internal need within an analysis and research process. As the team spent many hours browsing and sifting through troves of research reports and articles for different customer projects, and shared the summarized views in a Slack channel, we decided to try to systematize the process a bit more, to both improve efficiency in the project, and also to create better traceability and history of tracking &quot;signals&quot;.</p>
-<p>Libby was created as a Slack plugin to support the main workflow of the team.</p>
+<p>Libby was created as a Slack plugin to support the main workflow of the team. The backend is deployed as a Google Cloud function within your Google Cloud infrastructure, with the help of Terraform and GitHub Actions.</p>
 
 ### Built with
-* [![GoogleBard][Google_Bard]][GoogleBard-url]
+* [![Google Bard][Google_Bard]][GoogleBard-url]
 * [![NodeJS][Nodejs.org]][Node-url]
+* [![Terraform][Terraform.io]][Terraform-url]
+* [![GitHub Actions][GitHub_Actions]][GitHubActions-url]
+* [![Slack][Slack]][Slack-url]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,6 +153,7 @@ Project Link: [https://github.com/mathiasb/libby_slack](https://github.com/mathi
 * [Bard API Node](https://github.com/codenze/bard-api-node)
 * [Create a Slack bot in Node](https://medium.com/walmartglobaltech/create-slackbot-using-slack-bolt-api-and-node-js-a82876db012f)
 * [Unit testing Node with Mocha and Chai](https://blog.logrocket.com/testing-node-js-mocha-chai/)
+* [How to create a Slack app Serverless](https://github.com/xplorer-io/xplorers-bot-ts)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,3 +177,9 @@ Project Link: [https://github.com/mathiasb/libby_slack](https://github.com/mathi
 [Node-url]: https://nodejs.org
 [Google_Bard]: https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff&style=flat
 [GoogleBard-url]: https://bard.google.com
+[Terraform.io]: 
+[Terraform-url]: https://www.terraform.io
+[GitHub_Actions]:
+[GitHubActions-url]: https://docs.github.com/en/actions
+[Slack]:
+[Slack-url]: https://www.slack.com

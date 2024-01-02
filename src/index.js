@@ -1,6 +1,7 @@
 const { App } = require("@slack/bolt");
 require("dotenv").config();
 const libby_config = require('./config.js');
+const aiService = require('./aiService.js');
 
 // Load configuration and credentials
 conf = libby_config.setup();
@@ -17,10 +18,19 @@ app.message("hey", async ({ command, say }) => {
     try {
       say("Hello Human!");
     } catch (error) {
-        console.log("err")
+      console.log("err")
       console.error(error);
     }
 });
+
+app.message("bard", async ({ command, say }) => {
+    try {
+      response = aiService.bard_request(conf.BARD_SESSION, conf.BARD_TOKEN, "what is the difference between bard and chatgpt", say);
+    } catch (error) {
+      console.log("err");
+      console.error(error);
+    }
+  });
 
 app.event('app_home_opened', async ({ event, client, context }) => {
   try {
